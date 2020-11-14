@@ -1,5 +1,6 @@
 # Case Study Proposal:
-## This is a case study for the microlending company Kiva
+## Microlending via Kiva
+This is a case study for the microlending company Kiva
 
 ![Kiva](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kiva.org_logo_2016.svg/1200px-Kiva.org_logo_2016.svg.png)
 ---
