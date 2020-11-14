@@ -1,10 +1,13 @@
 # Case Study Proposal:
 ## Microlending via Kiva
 
+![Kiva](/images/kiva.png)
 ---
 
 ## Description
-todo
+This is a case study for Microleding in Kiva
+
+strengths, 
 ---
 ## Contributers
 * Justin Bernier
