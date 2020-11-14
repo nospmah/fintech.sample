@@ -1,7 +1,7 @@
 # Case Study Proposal:
 ## Microlending via Kiva
 
-![Kiva](/images/kiva.png)
+![Kiva](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kiva.org_logo_2016.svg/1200px-Kiva.org_logo_2016.svg.png)
 ---
 
 ## Description
