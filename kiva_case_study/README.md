@@ -37,3 +37,4 @@ This is a case study for the microlending company Kiva
 * Kiva is part of the microlending sector that is experiencing rapid growth.  Lending Club, a player in the same space, had one of the largest tech IPOs in 2014.
 ---
 ### Resources
+[Microlending Book Link](https://www.amazon.com/dp/B004OVEYO4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 "Banker To The Poor: Micro-Lending and the Battle Against World Poverty")
