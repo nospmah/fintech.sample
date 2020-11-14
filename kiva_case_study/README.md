@@ -7,7 +7,10 @@ This is a case study for the microlending company Kiva
 
 ## Contributers
 * Justin Bernier
-* Ingrid Schommer
+* Ingrid Schommer 
+Updating README.md
+Ingrid was here
+Is this working yet? 
 * Brian Hampson
 ---
 
