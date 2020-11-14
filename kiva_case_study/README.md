@@ -38,3 +38,4 @@ This is a case study for the microlending company Kiva
 ---
 ### Resources
 [Microlending Book Link](https://www.amazon.com/dp/B004OVEYO4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 "Banker To The Poor: Micro-Lending and the Battle Against World Poverty")
+The inspirational story of how Nobel Prize winner Muhammad Yunus invented microcredit, founded the Grameen Bank, and transformed the fortunes of millions of poor people around the world.
