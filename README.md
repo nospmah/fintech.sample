@@ -5,12 +5,15 @@
 ### Table of Contents
 [code](code)
 ---
-[data](folder)
+[data](data)
 ---
-[images](image)
+[images](images)
 ---
 [references](references)
 ---
+
+# Image example
+![text](./images/surf-1.jpg)
 
 # Who are you? What is your background?
 
@@ -23,7 +26,3 @@ My career goals are simply to follow my curiosity, work with talented developers
 # Why did you choose FinTech as a career path?
 
 For me, FinTech is a side hustle; simply a knowledge gathering endeavor.
-
-
-# Image example
-![text](./images/surf-1.jpg)
