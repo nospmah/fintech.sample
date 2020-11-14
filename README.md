@@ -3,13 +3,13 @@
 ## Description
 ---
 ### Table of Contents
-[code](./code)
+[code](code)
 ---
-[data](./folder)
+[data](folder)
 ---
-[images](./image)
+[images](image)
 ---
-[references](./references)
+[references](references)
 ---
 
 # Who are you? What is your background?
